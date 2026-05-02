@@ -1,0 +1,8 @@
+title: Mon Portfolio Professionnel
+description: Portfolio de MAAROURI KHAOULA, Qualification Aide-soignante en formation.
+baseurl: "" 
+url: "https://maarourikhaoula.github.io" # Remplacez par votre vrai nom d'utilisateur GitHub
+
+markdown: kramdown
+theme: minima # Vous pouvez changer ce thème par celui que vous utilisez
+
